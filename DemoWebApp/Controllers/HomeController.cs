@@ -1,4 +1,4 @@
-﻿namespace DemoWebApp.Controllers
+﻿namespace Apexnet.Payments.DemoWebApp.Controllers
 {
     using System.Web.Mvc;
 

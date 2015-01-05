@@ -1,4 +1,4 @@
-﻿namespace DemoWebApp
+﻿namespace Apexnet.Payments.DemoWebApp
 {
     using System.Web.Mvc;
     using System.Web.Routing;
